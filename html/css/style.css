@@ -1,0 +1,26 @@
+@charset "utf-8";
+body {
+    background-color: #ddd3be;
+}
+a {
+    color: #9facbd;
+}
+h1 {
+    background-color: #678983;
+    color: rgb(246, 252, 244);
+    font-size: 200%;
+    line-height: 1.5em;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+h2 {
+    border-left: 5px solid #384b63;
+    color: #384b63;
+}
+h3 {
+    border-left: 3px solid #384b63;
+    color: #384b63;
+}
+main#contents {
+    background-color: #ebdfc9;
+}
