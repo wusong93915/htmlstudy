@@ -2,9 +2,13 @@
 body {
     background-color: #292929;
     font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 a {
     color: #9facbd;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 h1 {
     color: rgb(246, 252, 244);
@@ -18,11 +22,17 @@ h1 {
 h2 {
     border-left: 5px solid #384b63;
     color: #384b63;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 h3 {
     border-left: 3px solid #384b63;
     color: #384b63;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 main#contents {
     background-color: #000000;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
 }
